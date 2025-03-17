@@ -88,5 +88,5 @@ This project is licensed under the **MIT License**.
 
 ---
 💬 **Let's connect!** Feel free to contribute, raise issues, or share feedback! 🙌  
-🔗 **GitHub Repo:** [[Your GitHub Link]](https://github.com/hbardhan)
+🔗 **GitHub Repo:** [[hbardhan]](https://github.com/hbardhan)
 
